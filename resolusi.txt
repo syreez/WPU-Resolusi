@@ -2,3 +2,5 @@
 - learning git hub
 - membuat sesuatu
 - :(
+- edit something...
+- be good
