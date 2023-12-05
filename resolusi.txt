@@ -1,0 +1,4 @@
+//Test
+- learning git hub
+- membuat sesuatu
+- :(
