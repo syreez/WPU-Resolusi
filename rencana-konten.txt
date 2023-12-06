@@ -1,0 +1,4 @@
+Planning in plan-content branch
+
+- Belajar JS
+- PHP freamework(?)
