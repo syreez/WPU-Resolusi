@@ -4,4 +4,8 @@ Planning in plan-content branch
   (Bikin kalkulator menggunakan JavaScipt)
 - PHP freamework(?)
 - Menjadi lebih pintar :)
-- Update portofolio (JS)
+- Update portofolio JS (from fitur-2) 
+- Test brench 1
+  ^ changes
+- Another test for brench 1
+  ^ more changes
