@@ -1,0 +1,5 @@
+Planning in plan-content branch
+
+- Belajar JS
+  (Bikin kalkulator menggunakan JavaScipt)
+- PHP freamework(?)
